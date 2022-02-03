@@ -1,3 +1,3 @@
-- Teste Repositório
+# Passo a passo commit
 
-- batata
+### 1. `git add .`
